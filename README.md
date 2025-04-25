@@ -102,6 +102,8 @@ Estos son los controles básicos para jugar a **Proyecto Aether**. Estos pueden 
 
 ## Equipo
 
+Este videojuegos es realizado bajo la direccion del equipo Inurange.
+
 ![Inurange-export](https://github.com/user-attachments/assets/f89d651a-374e-4044-b39f-1968f56c2fd2)
 
 **Proyecto Aether** es el resultado del esfuerzo y la dedicación de un equipo pequeño pero apasionado. Los miembros del equipo son:
