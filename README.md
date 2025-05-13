@@ -1,6 +1,7 @@
 # Edgebound
 
-![Proyecto Aether](https://github.com/user-attachments/assets/aa9fcaff-0e1f-467f-bb19-1456348a852c)
+![Edgebound](https://github.com/user-attachments/assets/e77667a4-f8f8-4751-a404-096617d8c6e8)
+
 
 **Proyecto Aether** es un juego de lucha (fighting game) en 2D desarrollado con [Unity](https://unity.com), que combina la estética del pixel art con la intensidad de las mecánicas arcade clásicas. Diseñado para ofrecer combates rápidos, precisos y visualmente vibrantes, Aether rinde homenaje a los grandes títulos del género mientras introduce su propio estilo y personalidad.
 
