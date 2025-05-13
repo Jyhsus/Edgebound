@@ -3,7 +3,7 @@
 ![Edgebound](https://github.com/user-attachments/assets/e77667a4-f8f8-4751-a404-096617d8c6e8)
 
 
-**Proyecto Aether** es un juego de lucha (fighting game) en 2D desarrollado con [Unity](https://unity.com), que combina la estética del pixel art con la intensidad de las mecánicas arcade clásicas. Diseñado para ofrecer combates rápidos, precisos y visualmente vibrantes, Aether rinde homenaje a los grandes títulos del género mientras introduce su propio estilo y personalidad.
+**Edgebound** es un juego de lucha (fighting game) en 2D desarrollado con [Unity](https://unity.com), que combina la estética del pixel art con la intensidad de las mecánicas arcade clásicas. Diseñado para ofrecer combates rápidos, precisos y visualmente vibrantes, Edgebound rinde homenaje a los grandes títulos del género mientras introduce su propio estilo y personalidad.
 
 ## Tabla de Contenido
 
@@ -25,7 +25,7 @@
 
 ## Historia del juego
 
-La historia de **Proyecto Aether** aún se encuentra en desarrollo, pero lo que ya podemos adelantar es que los jugadores serán parte de un torneo de lucha en el que se enfrentan guerreros con habilidades y orígenes únicos. 
+La historia de **Edgebound** aún se encuentra en desarrollo, pero lo que ya podemos adelantar es que los jugadores serán parte de un torneo de lucha en el que se enfrentan guerreros con habilidades y orígenes únicos. 
 
 En el juego, los luchadores deben superar sus propios desafíos y enfrentarse a una organización clandestina que busca controlar el **Aether**, una poderosa fuente de energía. A medida que avanza la historia, nuevos personajes y secretos serán revelados, mientras los jugadores se adentran en un mundo de combates épicos.
 
@@ -68,7 +68,7 @@ Antiguo físico cuántico que desarrolló un dispositivo experimental capaz de r
 
 ## Controles del juego
 
-Estos son los controles básicos para jugar a **Proyecto Aether**. Estos pueden cambiar en futuras versiones o ser personalizables en el menú de opciones.
+Estos son los controles básicos para jugar a **Edgebound**. Estos pueden cambiar en futuras versiones o ser personalizables en el menú de opciones.
 
 ### Teclado (por defecto)
 
