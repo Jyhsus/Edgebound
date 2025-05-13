@@ -1,4 +1,4 @@
-# Proyecto Aether
+# Edgebound
 
 ![Proyecto Aether](https://github.com/user-attachments/assets/aa9fcaff-0e1f-467f-bb19-1456348a852c)
 
