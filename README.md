@@ -113,4 +113,5 @@ Este videojuegos es realizado bajo la direccion del equipo Inurange.
 - **Diseñadores**: Juan Jose Lopez Mejia y Jesus David Martino Galindo
 - **Compositor**: Juan Jose Lopez Mejia
 
-![Vander y Joshua](https://github.com/user-attachments/assets/c6e694f2-a252-46a3-b98f-1d7cd61e001b)
+![Vander y Joshua_64](https://github.com/user-attachments/assets/6af90517-b4f7-448d-a612-36bb4e8b923b)
+
