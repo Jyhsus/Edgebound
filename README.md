@@ -112,3 +112,5 @@ Este videojuegos es realizado bajo la direccion del equipo Inurange.
 - **Programador**: Jesus David Martino Galindo
 - **Diseñadores**: Juan Jose Lopez Mejia y Jesus David Martino Galindo
 - **Compositor**: Juan Jose Lopez Mejia
+
+![Vander y Joshua](https://github.com/user-attachments/assets/c6e694f2-a252-46a3-b98f-1d7cd61e001b)
