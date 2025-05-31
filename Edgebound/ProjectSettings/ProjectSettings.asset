@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: b0053399ca7654a4a8a44fe2b9365dd1
+  productGUID: f0c348af94502e14a977b6988f3de51d
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Proyecto Aether
+  productName: Edgebound
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -251,7 +251,7 @@ PlayerSettings:
   appleEnableProMotion: 0
   shaderPrecisionModel: 0
   clonedFromGUID: c19f32bac17ee4170b3bf8a6a0333fb9
-  templatePackageId: com.unity.template.universal-2d@5.1.0
+  templatePackageId: com.unity.template.universal-2d@6.1.0
   templateDefaultScene: Assets/Scenes/SampleScene.unity
   useCustomMainManifest: 0
   useCustomLauncherManifest: 0
@@ -538,6 +538,7 @@ PlayerSettings:
     iPhone: 1
     tvOS: 1
   m_BuildTargetGroupLightmapEncodingQuality: []
+  m_BuildTargetGroupHDRCubemapEncodingQuality: []
   m_BuildTargetGroupLightmapSettings: []
   m_BuildTargetGroupLoadStoreDebugModeSettings: []
   m_BuildTargetNormalMapEncoding: []
@@ -801,12 +802,12 @@ PlayerSettings:
   webGLMemoryLinearGrowthStep: 16
   webGLMemoryGeometricGrowthStep: 0.2
   webGLMemoryGeometricGrowthCap: 96
-  webGLEnableWebGPU: 0
   webGLPowerPreference: 2
   webGLWebAssemblyTable: 0
   webGLWebAssemblyBigInt: 0
   webGLCloseOnQuit: 0
   webWasm2023: 0
+  webEnableSubmoduleStrippingCompatibility: 0
   scriptingDefineSymbols: {}
   additionalCompilerArguments: {}
   platformArchitecture: {}
@@ -828,14 +829,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Proyecto Aether
+  metroPackageName: Edgebound
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Proyecto Aether
+  metroApplicationDescription: Edgebound
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -904,12 +905,12 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 2
+  activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 1dfceff0-cf24-42d0-afd3-54a76c8175c5
+  cloudProjectId: 793d6931-420d-43d5-b77e-6379050b7003
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Proyecto Aether 2025-03-31_16-27-17
+  projectName: Edgebound
   organizationId: jyhsus4
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
@@ -919,3 +920,4 @@ PlayerSettings:
   insecureHttpOption: 0
   androidVulkanDenyFilterList: []
   androidVulkanAllowFilterList: []
+  androidVulkanDeviceFilterListAsset: {fileID: 0}
