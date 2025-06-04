@@ -1,7 +1,6 @@
 # Edgebound
 
-![Edgebound](https://github.com/user-attachments/assets/e77667a4-f8f8-4751-a404-096617d8c6e8)
-
+![Edgebound 1000%](https://github.com/user-attachments/assets/7006564b-0b2c-4077-a247-5a4e39fbd776)
 
 **Edgebound** es un juego de lucha (fighting game) en 2D desarrollado con [Unity](https://unity.com), que combina la estética del pixel art con la intensidad de las mecánicas arcade clásicas. Diseñado para ofrecer combates rápidos, precisos y visualmente vibrantes, Edgebound rinde homenaje a los grandes títulos del género mientras introduce su propio estilo y personalidad.
 
@@ -105,7 +104,7 @@ Estos son los controles básicos para jugar a **Edgebound**. Estos pueden cambia
 
 Este videojuegos es realizado bajo la direccion del equipo Inurange.
 
-![Inurange-export](https://github.com/user-attachments/assets/f89d651a-374e-4044-b39f-1968f56c2fd2)
+![Inurange_animado_sinFondo](https://github.com/user-attachments/assets/6dfae36e-aaaa-4c76-9606-2d96f9e8b209)
 
 **Proyecto Aether** es el resultado del esfuerzo y la dedicación de un equipo pequeño pero apasionado. Los miembros del equipo son:
 
@@ -114,4 +113,3 @@ Este videojuegos es realizado bajo la direccion del equipo Inurange.
 - **Compositor**: Juan Jose Lopez Mejia
 
 ![Vander y Joshua_64](https://github.com/user-attachments/assets/6af90517-b4f7-448d-a612-36bb4e8b923b)
-
